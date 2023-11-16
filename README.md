@@ -20,6 +20,7 @@ git --version
 Jā
 
 9.Mainīgajam aita piešķirt vērtību virkni kaste
+aita=[kaste]
 
 10.Abu veidu iepēju kā veidot komentāru pitonā
-# un //
+#piemers un //piemers
